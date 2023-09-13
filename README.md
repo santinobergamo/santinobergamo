@@ -9,10 +9,10 @@
 ### Technologies
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![PYTHON] (https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![PYTHON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
   <br/>
-![DJANGO] (https://img.shields.io/pypi/l/d?logo=django&logoColor=green&label=Django&color=green&link=%23092E20)
+![DJANGO](https://img.shields.io/pypi/l/d?logo=django&logoColor=green&label=Django&color=green&link=%23092E20)
 
 ### Contact Me
 <a href="[https://www.linkedin.com/in/maurovera/](https://www.linkedin.com/in/santino-bergamo-934475267/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mauro%20Vera-blue?style=flat-square&logo=linkedin"></a>
