@@ -6,11 +6,11 @@
 - El curso está orientado a Python y Desarrollo Web.
 
 ### Tecnologías
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+  <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" width="100">
+  <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6" width="100">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" width="100">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green" width="100">
 
 ### Contáctame
-- LinkedIn: <a href="https://www.linkedin.com/in/santino-bergamo-934475267/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Santino Bergamo-blue?style=flat-square&logo=linkedin"></a>
+- LinkedIn: <a href="https://www.linkedin.com/in/santino-bergamo-934475267/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Santino%20Bergamo-blue?style=flat-square&logo=linkedin"></a>
 - Correo Electrónico: [santinobergamo@gmail.com](mailto:santinobergamo@gmail.com)
