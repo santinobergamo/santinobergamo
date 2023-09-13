@@ -12,5 +12,5 @@
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 
 ### Contáctame
-- LinkedIn: <a href="https://www.linkedin.com/in/santino-bergamo-934475267/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-TuNombre-blue?style=flat-square&logo=linkedin"></a>
+- LinkedIn: <a href="https://www.linkedin.com/in/santino-bergamo-934475267/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Santino Bergamo-blue?style=flat-square&logo=linkedin"></a>
 - Correo Electrónico: [santinobergamo@gmail.com](mailto:santinobergamo@gmail.com)
