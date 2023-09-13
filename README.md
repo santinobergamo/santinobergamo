@@ -15,6 +15,5 @@
   ![DJANGO](https://img.shields.io/pypi/l/d?logo=django&logoColor=green&label=Django&color=green&link=%23092E20)
 
 ### Contact Me
-<a href="[https://www.linkedin.com/in/maurovera/](https://www.linkedin.com/in/santino-bergamo-934475267/)">
-
+<a href="https://www.linkedin.com/in/santino-bergamo-934475267/"</a>
 
