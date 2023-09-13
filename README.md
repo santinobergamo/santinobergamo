@@ -12,9 +12,9 @@
   ![PYTHON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
   <br/>
-![DJANGO](https://img.shields.io/pypi/l/d?logo=django&logoColor=green&label=Django&color=green&link=%23092E20)
+  ![DJANGO](https://img.shields.io/pypi/l/d?logo=django&logoColor=green&label=Django&color=green&link=%23092E20)
 
 ### Contact Me
-<a href="[https://www.linkedin.com/in/maurovera/](https://www.linkedin.com/in/santino-bergamo-934475267/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mauro%20Vera-blue?style=flat-square&logo=linkedin"></a>
+<a href="[https://www.linkedin.com/in/maurovera/](https://www.linkedin.com/in/santino-bergamo-934475267/)">
 
 
