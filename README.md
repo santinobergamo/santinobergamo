@@ -1,19 +1,16 @@
-<h1>Hello! I'm Santino Bergamo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h2>Student 🎨</h2>
+<h1>Hola! Soy Santino Bergamo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
 
-### About Me
-- I am 18 years old and I am from Buenos Aires, Argentina.
-- I am taking a course at the CoderHouse academy.
-- The course is Python oriented to Web Development
+### Acerca de mí
+- Tengo 18 años y soy de Buenos Aires, Argentina.
+- Estoy tomando un curso en la academia CoderHouse.
+- El curso está orientado a Python y Desarrollo Web.
 
-### Technologies
+### Tecnologías
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![PYTHON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 
-  <br/>
-  ![DJANGO] (https://img.shields.io/pypi/l/d?logo=django&logoColor=green&label=Django&color=green&link=%23092E20)
-
-### Contact Me
-<a href="https://www.linkedin.com/in/maurovera/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mauro%20Vera-blue?style=flat-square&logo=linkedin"></a>
-
+### Contáctame
+- LinkedIn: <a href="https://www.linkedin.com/in/santino-bergamo-934475267/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-TuNombre-blue?style=flat-square&logo=linkedin"></a>
+- Correo Electrónico: [santinobergamo@gmail.com](mailto:santinobergamo@gmail.com)
