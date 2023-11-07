@@ -1,7 +1,7 @@
 <h1>Hola! Soy Santino Bergamo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
 
 ### Acerca de mí
-- Tengo 18 años y soy de Buenos Aires, Argentina.
+- Tengo 19 años y soy de Buenos Aires, Argentina.
 - Estoy tomando un curso en la academia CoderHouse.
 - El curso está orientado a Python y Desarrollo Web.
 
