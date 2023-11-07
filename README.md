@@ -3,7 +3,8 @@
 ### Acerca de mí
 - Tengo 19 años y soy de Buenos Aires, Argentina.
 - Estoy tomando un curso en la academia CoderHouse.
-- El curso está orientado a Python y Desarrollo Web.
+- El curso está orientado a Desarrollo Web, las tecnologias utilizadas son HTML y CSS.
+- He concluido un Curso en la academia CoderHouse de Python orientado a Desarrollo Web con el FrameWork de Django!
 
 ### Tecnologías
   <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" width="100">
